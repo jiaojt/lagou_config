@@ -1,0 +1,13 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
+  driver: com.mysql.cj.jdbc.Driver
+  username: root
+  password: 123456
+  
+Intercept-ip:
+  min:1
+  counts:100
+  
+  
+email:
+  username: 1063813426@qq.com
