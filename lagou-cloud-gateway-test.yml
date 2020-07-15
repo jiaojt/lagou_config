@@ -5,8 +5,8 @@ mysql:
   password: 123456
   
 Intercept-ip:
-  min:1
-  counts:100
+  min: 1
+  counts: 100
   
   
 email:
