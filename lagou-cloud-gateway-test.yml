@@ -6,7 +6,7 @@ mysql:
   
 Intercept-ip:
   min: 1
-  counts: 5
+  counts: 100
   
   
 email:
